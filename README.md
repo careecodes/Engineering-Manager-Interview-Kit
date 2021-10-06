@@ -56,3 +56,8 @@
 2. What can a manager do to support an inclusive working culture?
 3. How do you think conflicts on a team should be resolved?
 4. What kind of engineers do you like to hire?
+5. What does diversity mean?
+6. What does equity mean?
+7. What does inclusion mean?
+8. What does it mean to be inclusive?
+9. How do you ensure that you are hiring inclusively?
