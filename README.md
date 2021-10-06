@@ -31,7 +31,7 @@
 6. How would you support a person in growing in their technical skills? Communication skills? Leadership skills?
 9. What would you do if a hard-working and well-performing employee began to fail to deliver?
 10. Tell me about a time you needed to give a peer some tough feedback.
-11. 
+11. Tell me about how you like to onboard new engineers. Does this process differ depending on whether the engineer is junior or senior, and how?
 
 ## Planning and Leading Technical Projects
 1. How would you coach a team to break down a complicated project?
