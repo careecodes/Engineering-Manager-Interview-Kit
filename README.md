@@ -1,4 +1,4 @@
-# Engineering-Manager-Interview-Kit
+# Engineering Manager Interview Questions
 
 ## General
 1. How would you describe your management style?
